@@ -1,0 +1,10 @@
+/.svn
+/.vs
+/Intermediate
+/Saved
+/Binaries
+/Build
+/DerivedDataCache
+/*.sdf
+/*.opensdf
+/*.sln

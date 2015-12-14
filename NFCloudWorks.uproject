@@ -1,0 +1,20 @@
+{
+    "FileVersion": 3,
+    "EngineAssociation": "{9894A008-4B8C-4FBB-2201-6E9422F98013}",
+    "Category": "",
+    "Description": "",
+    "Modules": [ 
+        {
+            "Name": "CloudWorks",
+            "Type": "Runtime",
+            "LoadingPhase": "Default"
+        }
+
+    ],
+	"Plugins": [
+        {
+            "Name": "NFRenderExtent",
+            "Enabled": true
+        }
+	]
+}
